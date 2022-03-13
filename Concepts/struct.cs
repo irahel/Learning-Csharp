@@ -1,0 +1,12 @@
+public struct Coords
+{
+    public Coords(decimal x, decimal y)
+    {
+        X = x;
+        Y = y;
+    }
+
+    public decimal X { get;}
+    public decimal Y { get;}
+    public override string ToString() => "Coords(" + X + ", " + Y + ")";
+}

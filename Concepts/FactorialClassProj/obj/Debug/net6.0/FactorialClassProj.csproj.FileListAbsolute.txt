@@ -1,0 +1,15 @@
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\FactorialClassProj.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\FactorialClassProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\FactorialClassProj.AssemblyInfoInputs.cache
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\FactorialClassProj.AssemblyInfo.cs
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\FactorialClassProj.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\bin\Debug\net6.0\FactorialClassProj.exe
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\bin\Debug\net6.0\FactorialClassProj.deps.json
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\bin\Debug\net6.0\FactorialClassProj.runtimeconfig.json
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\bin\Debug\net6.0\FactorialClassProj.dll
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\bin\Debug\net6.0\FactorialClassProj.pdb
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\FactorialClassProj.dll
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\refint\FactorialClassProj.dll
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\FactorialClassProj.pdb
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\FactorialClassProj.genruntimeconfig.cache
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\Concepts\FactorialClassProj\obj\Debug\net6.0\ref\FactorialClassProj.dll

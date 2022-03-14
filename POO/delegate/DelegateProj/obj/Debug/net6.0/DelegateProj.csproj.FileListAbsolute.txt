@@ -1,0 +1,15 @@
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\bin\Debug\net6.0\DelegateProj.exe
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\bin\Debug\net6.0\DelegateProj.deps.json
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\bin\Debug\net6.0\DelegateProj.runtimeconfig.json
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\bin\Debug\net6.0\DelegateProj.dll
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\bin\Debug\net6.0\DelegateProj.pdb
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\DelegateProj.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\DelegateProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\DelegateProj.AssemblyInfoInputs.cache
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\DelegateProj.AssemblyInfo.cs
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\DelegateProj.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\DelegateProj.dll
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\refint\DelegateProj.dll
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\DelegateProj.pdb
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\DelegateProj.genruntimeconfig.cache
+C:\Users\isaac\Desktop\Microsoft Tutorials C#\POO\delegate\DelegateProj\obj\Debug\net6.0\ref\DelegateProj.dll

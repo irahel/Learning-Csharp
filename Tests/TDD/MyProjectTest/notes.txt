@@ -1,0 +1,12 @@
+dotnet test
+
+-t list tests
+-v verbosity level (m -> minimal, n -> normal, d->detailed, diag -> complete diagnostics)
+--filter filter tests by name or category
+
+
+Fact --> Concrete unique test case
+Theory --> Colleciton of tests (same context)
+    InLineData --> give by inline, datas for a test Theory
+    MemberData --> give by Enumarable, data for a test Theory
+Trait("Category", "name") --> create category to filter

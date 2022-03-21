@@ -32,7 +32,7 @@ Aqui faremos um exemplo. Para isso, o projeto exemplo de nome `SimpleMathV3` ser
 
 Agora você deve desenvolver o projeto normalmente, adicionando os arquivos, imagens e configurações necessárias para o desenvolvimento do projeto por parte dos estudantes.
 
-Após criar o projeto, por exemplo, criamos 1 classe `SimpleMath`:
+Após criar o projeto, por exemplo, criamos a classe `SimpleMath`:
 
 - `SimpleMathV3/SimpleMath.cs`
 ```C#
@@ -63,7 +63,7 @@ Para este exemplo, a ferramenta escolhida para execução dos testes será o [XU
             [Trait("Category","Sum")]
             public void TestAdd()
             {        
-            Assert.Equal(20, Calculator.Add(10, 10));
+            Assert.Equal(20, SimpleMath.Add(10, 10));
             }
             
             [Theory(DisplayName = "Testing multiple subtractions")]
@@ -73,7 +73,7 @@ Para este exemplo, a ferramenta escolhida para execução dos testes será o [XU
             [InlineData(20,20,40)]
             public void TestSubtract(int n1, int n2, int expected)
             {
-                Assert.Equal(expected, Calculator.Add(n1, n2));
+                Assert.Equal(expected, SimpleMath.Add(n1, n2));
             }
         }
             
@@ -102,13 +102,13 @@ Na prática, os testes unitários avaliam os requisitos, mas é necessário indi
     [Trait("Category","Sum")]
     public void TestAdd()
     {        
-        Assert.Equal(20, Calculator.Add(10, 10));
+        Assert.Equal(20, SimpleMath.Add(10, 10));
     }
     [Fact]
     [Trait("Category","Sum")]
     public void TestFailAdd()
     {        
-        Assert.NotEqual(20, Calculator.Add(10, 15));
+        Assert.NotEqual(20, SimpleMath.Add(10, 15));
     }  
     ...
     ```

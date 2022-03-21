@@ -12,7 +12,7 @@ Este tutorial mostra o passo a passo sobre como criar projetos com avaliação a
 - Os testes são feitos com o XUnit 2.4.1.
 - São testes que garantem que o que o enunciado pede está sendo entregue, podendo ser unitários ou de integração, ficando a critério de quem os faz.
 - Cada teste de requisito deve ser precedido pela _data annotation_ `[Fact]` ou `Theory` e ser descrita usando o modificador `DisplayName = "Descrição do requisito para estudante ver aqui"`.
--Ex: 
+- Ex: 
 ```C#
 [Fact(DisplayName = "Testing Division")]
 public void TestDivide()

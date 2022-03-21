@@ -54,6 +54,7 @@ Para este exemplo, a ferramenta escolhida para execução dos testes será o [XU
     ```C#
     using Xunit;
     using SimpleMath;
+    
 
     namespace SimpleMath.Tests
     {

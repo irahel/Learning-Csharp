@@ -20,9 +20,9 @@ public void TestDivide()
     Assert.Equal(1, Calculator.Divide(10,10));
 }
 ```
-- Todas as classes de um projeto devem estar no mesmo pacote, e este pacote deve ter o mesmo nome do diretório do projeto
+- Todas as classes de um projeto devem estar no mesmo pacote, e este pacote deve ter o mesmo nome do diretório do projeto.
 - Todos os códigos devem ser entregues passando no checador de estilo https://github.com/StyleCop
-- Todo desafio deve vir com um arquivo .trybe/requirements.json na raiz da pasta de desafios, mapeados conforme instruções abaixo
+- Todo desafio deve vir com um arquivo .trybe/requirements.json na raiz da pasta de desafios, mapeados conforme instruções abaixo.
 
 ## Exemplo
 
